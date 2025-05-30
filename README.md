@@ -1,5 +1,5 @@
 # TaroCard
-
+[Live Preview](https://taro-card-9kw9xa4ei-phamthanhhang208-gmailcoms-projects.vercel.app/)
 A modern Tarot card reading web app built with [Next.js](https://nextjs.org/), [Firebase](https://firebase.google.com/), and [Gemini AI](https://ai.google.dev/).  
 Users can browse tarot cards, draw a spread, and receive AI-generated interpretations.
 
