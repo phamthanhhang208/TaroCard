@@ -59,7 +59,7 @@ Please use clear formatting (headings, bullet points, or emojis) to make the rea
 export async function POST(req: NextRequest) {
     try {
         const { cards: selectedCards, question } = await req.json();
-        console.log(selectedCards);
+
         if (
             !selectedCards ||
             !Array.isArray(selectedCards) ||
